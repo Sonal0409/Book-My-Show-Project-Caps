@@ -30,10 +30,4 @@ Welcome to the **Book My Show App Deployment** project! This project demonstrate
 - Set up **Prometheus** and **Grafana** for monitoring and visualization.
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
 
----
 
----
-
-## 🎉 **Happy Learning!**  
-
-**KASTRO KIRAN V**
